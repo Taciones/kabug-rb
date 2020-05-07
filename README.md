@@ -21,7 +21,7 @@ bundle install
 bundle exec cucumber
 `
 
-### Executar no servidor de CI (gerado reposts JSON)
+### Executar no servidor de CI (gerado reports JSON)
 `
 bundle exec cucumber -p ci
 `
